@@ -45,20 +45,20 @@
    ```
 2. Перейдите в директорию проекта:
 
-```bash
-cd doodocs
-```
+   ```bash
+   cd doodocs
+   ```
 
 3. Установите все необходимые зависимости:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 4. Запустите проект:
 
-```bash
-npm start
-```
+   ```bash
+   npm start
+   ```
 
 Теперь приложение будет доступно по адресу http://localhost:3000.
 
@@ -67,19 +67,19 @@ npm start
 
 1. Создайте новую ветку для вашей фичи:
 
-```bash
-git checkout -b feature-name
-```
+   ```bash
+   git checkout -b feature-name
+   ```
 2. Реализуйте необходимые изменения.
 
 3. Протестируйте приложение.
 
 4. Сделайте commit и push:
 
-```bash
-git commit -am "Добавлена фича: [описание]"
-git push origin feature-name
-```
+   ```bash
+   git commit -am "Добавлена фича: [описание]"
+   git push origin feature-name
+   ```
 5. Создайте Pull Request для слияния изменений в основную ветку.
 
 ## Вклад в проект
@@ -89,5 +89,6 @@ git push origin feature-name
 Проект лицензируется под лицензией MIT. Подробнее о лицензии можно ознакомиться в файле LICENSE.
 
 ## Контакты
-Автор: Еркебулан
-Email: erkebulanmassainovvv@mail.ru
+- Автор: Еркебулан
+- Email: erkebulanmassainovvv@mail.ru
+- Youtube: https://www.youtube.com/watch?v=3B75N4ttPbE

@@ -1,0 +1,9 @@
+textarea {
+  width: 60vw;
+  height: 50vh;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  resize: both; 
+  margin-top: 2vw;
+}

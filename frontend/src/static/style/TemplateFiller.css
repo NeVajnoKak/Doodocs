@@ -1,0 +1,18 @@
+.file-page {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.file-page > :last-child {
+  align-self: flex-start; 
+}
+
+
+button {
+  margin-left: 20vw;
+  margin-top: 2vw;
+}

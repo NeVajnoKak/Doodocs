@@ -1,0 +1,22 @@
+.file-upload {
+  width: 60vw;
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  border: 1px dashed #90959d;
+  margin-top: 5vw;
+}
+
+.file-icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.file-drag-text {
+  padding-top: 1vw;
+  color: #282a2f;
+}
